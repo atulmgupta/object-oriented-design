@@ -10,3 +10,7 @@ mvnw
 target/classes/META-INF/
 
 *.class
+
+.idea/
+
+bin/
